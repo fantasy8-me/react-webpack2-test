@@ -1,7 +1,7 @@
 {
-  "name": "xb-react",
+  "name": "react-webpack2-test",
   "version": "1.0.0",
-  "description": "xuebang react base",
+  "description": "react base",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
